@@ -5,28 +5,27 @@ Este repositório serve como uma **Cápsula do Tempo Digital**. O objetivo é re
 ---
 
 ## 👤 Quem sou eu hoje?
-> *Escreva aqui um breve parágrafo sobre você no presente.*
+> *Calourinho da UFAM, animado e com espectativas; Tenho 18 anos, moro com meus pais e passo diariamente por descobertas.*
 
 ---
 
 ## 🎯 Minhas Expectativas
-* **Área de Interesse:** Qual área da computação/tecnologia mais te brilha os olhos agora? (Ex: IA, Desenvolvimento Web, Jogos, Cibersegurança...)
-* **O que espero aprender:** Quais habilidades técnicas ou interpessoais você quer dominar?
+* **Área de Interesse:** Não tenho muita ideia, as diria que desenvolvimento web. 
+* **O que espero aprender:** Programar em diversas linguagens, saber construir e projetar minhas próprias coisas de interesse.
 
 ## 🎭 Sentimentos e Desafios
-* **O maior medo hoje:** O que te dá aquele frio na barriga ao pensar no curso?
-* **A maior alegria:** O que te fez sorrir ou sentir orgulho de estar aqui hoje?
+* **O maior medo hoje:** Não entender ou me perder no curso
+* **A maior alegria:** Poder proporcionar orgulho aos meus pais e a mim mesmo de alcançar meu sonho da federal.
 
 ## 🎨 Vida Pessoal e Lazer
-* **Círculo de Amizades:** Quem são as pessoas que estão ao seu lado no início dessa caminhada?
-* **O que faço no tempo livre:** Quais são seus hobbies, músicas favoritas ou séries do momento? (Para não esquecer que existe vida fora do terminal!)
-
+* **Círculo de Amizades:** Giovana, Adriel, Julio, Antony, Leticia, Itala, Maria e bia são os principais na minha vida; Porém fiz já algumas amizades na facul: izabele, lara, agape, nicole, yasmin, maria, clarisse, dani, ana, etc.
+* **O que faço no tempo livre:** Gosto de ler (apesar de falta de frequência), ver video no yt, ouvir musicas (mpb, cas, pop) e amo one piece.
 ---
 
 ## ✉️ Recado para o "Eu" do Futuro
 *Caro eu do futuro, se você está lendo isso na semana da sua formatura e está exausto de estudar para as finais, lembre-se:*
 
-> "Escreva aqui um conselho, um incentivo ou uma piada interna para você mesmo ler daqui a alguns anos."
+> "Talvez você esteja exausto ou numa situação difícil (ou não também), mas sempre lembre do quanto você queria estar exatamente aí, nesse lugar e prestes a se formar. Esse foi nosso sonho e tenho certeza que cada experiência, seja ela boa ou ruim, valeu a pena. Estou ansioso por cada memória e nostalgia. Espero estar muito feliz e decidido sobre meu futuro, talvez até já morando em outro lugar. Aguardo cada momento futuro."
 
 ---
 
